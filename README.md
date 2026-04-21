@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# Desenvolvedor FullStack
 
-<p align="left">
-</p>
+Desenvolvedor FullStack especializado em construir aplicações web escaláveis e performáticas. Experiência sólida em todo o ciclo de desenvolvimento, desde a arquitetura do frontend até a implementação de backends robustos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<!--
-**Lucaslonski-code/Lucaslonski-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack Técnico
 
-Here are some ideas to get you started:
+### Frontend
+- **HTML5** — Semântica, acessibilidade e estrutura otimizada
+- **CSS3** — Layouts responsivos, Flexbox, Grid, animações e preprocessadores
+- **JavaScript (ES6+)** — Programação assíncrona, manipulação do DOM, padrões de design
+- **React** — Componentes funcionais, Hooks, Context API, gerenciamento de estado, otimização de performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- **Node.js** — Runtime JavaScript para servidor
+- **Express.js** — Framework minimalista para APIs REST
+- **Arquitetura** — MVC, middleware, autenticação, validação de dados
+- **Bancos de Dados** — Integração e consultas otimizadas
+
+---
+
+## 📚 Competências Principais
+
+| Área | Tecnologias |
+|------|-------------|
+| **Frontend** | React, HTML5, CSS3, JavaScript ES6+ |
+| **Backend** | Node.js, Express.js |
+| **Padrões** | REST APIs, MVC, componentes reutilizáveis |
+| **Ferramentas** | Git, npm, desenvolvimento responsivo |
+
+---
+
+## 🔧 O Que Faço
+
+- Desenvolvimento de interfaces interativas e responsivas com React
+- Construção de APIs REST escaláveis com Node.js e Express
+- Integração frontend-backend com tratamento de erros e validações
+- Otimização de performance e boas práticas de código
+- Versionamento e colaboração com Git
+
+---
+
+## 📂 Projetos
+
+Confira meus projetos no repositório para ver aplicações práticas dessas tecnologias em ação.
+
+---
+
+## 🚀 Sempre Aprendendo
+
+Comprometido com a evolução contínua, explorando novas ferramentas e padrões da indústria para entregar soluções cada vez melhores.
+
+---
+
+**Vamos trabalhar juntos?** Entre em contato ou explore meus repositórios.
 
