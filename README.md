@@ -1,7 +1,7 @@
 # Desenvolvedor FullStack 💻
 
 ![GitHub followers](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucaslonski)
 ![GitHub repo stars](https://img.shields.io/github/stars/Lucaslonski-code?style=social)
 
 Desenvolvedor FullStack especializado em construir aplicações web escaláveis e performáticas. Experiência sólida em todo o ciclo de desenvolvimento, desde a arquitetura do frontend até a implementação de backends robustos.
