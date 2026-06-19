@@ -1,73 +1,89 @@
-# Desenvolvedor FullStack 💻
+# Olá, eu sou o Lucas Lonski — Desenvolvedor FullStack 💻
 
-![GitHub followers](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucaslonski)
-![GitHub repo stars](https://img.shields.io/github/stars/Lucaslonski-code?style=social)
-
-Desenvolvedor FullStack especializado em construir aplicações web escaláveis e performáticas. Experiência sólida em todo o ciclo de desenvolvimento, desde a arquitetura do frontend até a implementação de backends robustos.
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
-## 🛠️ Stack Técnico
+![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social&color=4CAF50)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucaslonski)
+![Estrelas no GitHub](https://img.shields.io/github/stars/Lucaslonski-code?style=social&color=FDD835)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/Lucaslonski-code?color=FBC02D)
+
+---
+
+## 🛠️ Minha Stack Técnica
 
 ### Frontend
 
-- **HTML5** — Semântica, acessibilidade e estrutura otimizada
+- 🟢 **HTML5** — semântica e acessibilidade para web otimizada  
 
-- **CSS3** — Layouts responsivos, Flexbox, Grid, animações e preprocessadores
+- 🟢 **CSS3** — layouts responsivos, animações e design moderno  
 
-- **JavaScript (ES6+)** — Programação assíncrona, manipulação do DOM, padrões de design
+- 🟢 **JavaScript (ES6+)** — código limpo, assíncrono e performático  
 
-- **React** — Componentes funcionais, Hooks, Context API, gerenciamento de estado e otimização de performance
+- 🟢 **React** — componentes funcionais, hooks e gerenciamento de estado  
 
 ### Backend
 
-- **Node.js** — Runtime JavaScript para servidor
+- 🟡 **Node.js** — servidor eficiente e escalável  
 
-- **Express.js** — Framework minimalista para APIs REST
+- 🟡 **Express.js** — APIs REST simples e robustas  
 
-- **Arquitetura** — MVC, middleware, autenticação, validação de dados
+- 🟡 **MongoDB & Mongoose** — banco NoSQL com modelagem avançada  
 
-- **Bancos de Dados** — Integração e consultas otimizadas
+- 🟡 **Arquitetura Modular** — Models, Services, Controllers, Routes, Middlewares  
+
+- 🟡 **Autenticação JWT & bcryptjs** — segurança e criptografia de senhas  
+
+- 🟡 **Controle de Acesso RBAC** — múltiplos níveis de permissão (user, admin, superadmin)  
+
+- 🟡 **Multi-tenant** — isolamento de dados por empresa para segurança e escalabilidade  
+
+- 🟡 **Google Calendar API (OAuth 2.0)** — integração para sincronização de agendamentos  
 
 ---
 
 ## 📚 Competências Principais
 
-- **Frontend:** React, HTML5, CSS3, JavaScript ES6+
-
-- **Backend:** Node.js, Express.js
-
-- **Padrões:** REST APIs, MVC, componentes reutilizáveis
-
-- **Ferramentas:** Git, npm, desenvolvimento responsivo
+| Frontend                           | Backend                                     | Padrões                   | Ferramentas             |
+|----------------------------------|---------------------------------------------|---------------------------|-------------------------|
+| React, HTML5, CSS3, JavaScript ES6+ | Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs | REST APIs, MVC, RBAC, multi-tenant | Git, npm, Postman, Docker, CI/CD |
 
 ---
 
 ## 🔧 O Que Faço
 
-- Desenvolvimento de interfaces interativas e responsivas com React
+- ⚛️ Desenvolvimento de interfaces interativas e responsivas com React  
 
-- Construção de APIs REST escaláveis com Node.js e Express
+- ⚙️ Construção de APIs REST escaláveis e seguras com Node.js, Express, MongoDB  
 
-- Integração frontend-backend com tratamento de erros e validações
+- 🔐 Implementação de autenticação JWT e controle de acesso baseado em papéis (RBAC)  
 
-- Otimização de performance e boas práticas de código
+- 🔗 Integração com APIs externas, como Google Calendar via OAuth 2.0  
 
-- Versionamento e colaboração com Git
+- 🔄 Sincronização e isolamento de dados multi-tenant para múltiplas empresas  
+
+- 🚀 Código otimizado, testes, versionamento e colaboração com Git  
 
 ---
 
 ## 📂 Projetos
 
-Confira meus projetos no [GitHub](https://github.com/Lucaslonski-code) para ver aplicações práticas dessas tecnologias em ação.
+Quer ver na prática? Conheça meus projetos no [GitHub](https://github.com/Lucaslonski-code).
 
 ---
 
 ## 🚀 Sempre Aprendendo
 
-Comprometido com a evolução contínua, explorando novas ferramentas e padrões da indústria para entregar soluções cada vez melhores.
+> “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — Albert Einstein  
+
+![Learning GIF](https://media.giphy.com/media/3o7aCVUDhCqNq5Zt6Y/giphy.gif)
 
 ---
 
-**Vamos trabalhar juntos?**  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)  
+[![GitHub](https://img.shields.io/badge/-GitHub-%2300A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaslonski-code)  
+
+</div>
