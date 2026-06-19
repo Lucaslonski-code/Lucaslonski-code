@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas SLonski — Desenvolvedor FullStack 💻
+# Olá, eu sou Lucas Slonski — Desenvolvedor FullStack 💻
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-user/banner-profissional.gif)
 
