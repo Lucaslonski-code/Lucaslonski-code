@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Lonski — Desenvolvedor FullStack 💻
+# Olá, eu sou o Lucas SLonski — Desenvolvedor FullStack 💻
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-user/banner-profissional.gif)
 
@@ -7,7 +7,7 @@
 ![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social&color=4CAF50)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 [![GitHub Stars](https://img.shields.io/github/stars/Lucaslonski-code?style=social&color=FDD835)](https://github.com/Lucaslonski-code/stargazers)
-![Tamanho do repositório](https://img.shields.io/github/repo-size/Lucaslonski-code?color=FBC02D)
+
 
 ---
 
