@@ -1,12 +1,12 @@
 # Olá, eu sou o Lucas Lonski — Desenvolvedor FullStack 💻
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome Banner](https://user-images.githubusercontent.com/your-user/banner-profissional.gif)
 
 ---
 
 ![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social&color=4CAF50)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lucaslonski)
-![Estrelas no GitHub](https://img.shields.io/github/stars/Lucaslonski-code?style=social&color=FDD835)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
+[![GitHub Stars](https://img.shields.io/github/stars/Lucaslonski-code?style=social&color=FDD835)](https://github.com/Lucaslonski-code/stargazers)
 ![Tamanho do repositório](https://img.shields.io/github/repo-size/Lucaslonski-code?color=FBC02D)
 
 ---
@@ -77,7 +77,7 @@ Quer ver na prática? Conheça meus projetos no [GitHub](https://github.com/Luca
 
 > “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — Albert Einstein  
 
-![Learning GIF](https://media.giphy.com/media/3o7aCVUDhCqNq5Zt6Y/giphy.gif)
+![Learning Banner](https://user-images.githubusercontent.com/your-user/learning-professional.gif)
 
 ---
 
