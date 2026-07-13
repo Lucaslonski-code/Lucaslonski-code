@@ -1,7 +1,5 @@
 # Olá, eu sou Lucas Slonski — Desenvolvedor FullStack 💻
 
-![Welcome Banner](https://user-images.githubusercontent.com/your-user/banner-profissional.gif)
-
 ---
 
 ![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social&color=4CAF50)
