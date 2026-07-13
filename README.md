@@ -1,13 +1,9 @@
 # Olá, eu sou Lucas Slonski — Desenvolvedor FullStack 💻
 
----
-
 ![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Follow&style=social&color=4CAF50)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2300A86B?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 [![GitHub Stars](https://img.shields.io/github/stars/Lucaslonski-code?style=social&color=FDD835)](https://github.com/Lucaslonski-code/stargazers)
 
-
----
 
 ## 🛠️ Minha Stack Técnica
 
