@@ -74,8 +74,6 @@ Quer ver na prática? Conheça meus projetos no [GitHub](https://github.com/Luca
 
 > “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — Albert Einstein  
 
-![Learning Banner](https://user-images.githubusercontent.com/your-user/learning-professional.gif)
-
 ---
 
 <div align="center">
