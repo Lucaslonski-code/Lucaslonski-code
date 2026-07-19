@@ -1,146 +1,157 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Slonski
+# Lucas Slonski
 
-### Desenvolvedor Full Stack 💻
+### Full Stack Developer
 
-<p>
-Construindo aplicações modernas, escaláveis e seguras.
-</p>
+Construindo aplicações modernas com foco em arquitetura, segurança, escalabilidade e experiência do usuário.
 
 <br>
 
-![Seguidores no GitHub](https://img.shields.io/github/followers/Lucaslonski-code?label=Followers\&style=for-the-badge\&logo=github\&color=22C55E)
-
-![GitHub Stars](https://img.shields.io/github/stars/Lucaslonski-code?style=for-the-badge\&logo=github\&color=FACC15)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-181717?style=flat\&logo=github)](https://github.com/Lucaslonski-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+## Sobre
 
-Sou Desenvolvedor Full Stack com foco na construção de aplicações modernas, performáticas e escaláveis.
+Sou desenvolvedor Full Stack e gosto de construir software completo, desde a arquitetura até a entrega.
 
-Tenho experiência no desenvolvimento de interfaces responsivas, APIs REST, autenticação, arquitetura modular e integração entre serviços.
+Tenho interesse especial por engenharia de software, arquitetura de sistemas, desenvolvimento cloud, segurança, experiência do desenvolvedor (DX) e documentação técnica.
 
-Sempre busco escrever código limpo, organizado e de fácil manutenção.
-
----
-
-# 🛠️ Minha Stack Técnica
-
-## 🎨 Frontend
-
-| Tecnologia           | Descrição                                               |
-| -------------------- | ------------------------------------------------------- |
-| 🟢 HTML5             | Semântica e acessibilidade para web otimizada           |
-| 🟢 CSS3              | Layouts responsivos, animações e design moderno         |
-| 🟢 JavaScript (ES6+) | Código limpo, assíncrono e performático                 |
-| 🟢 React             | Componentes funcionais, Hooks e gerenciamento de estado |
+Acredito que software de qualidade é resultado da combinação entre boas decisões arquiteturais, código limpo, documentação consistente e evolução contínua.
 
 ---
 
-## ⚙️ Backend
+# Stack
 
-| Tecnologia             | Descrição                                           |
-| ---------------------- | --------------------------------------------------- |
-| 🟡 Node.js             | Servidor eficiente e escalável                      |
-| 🟡 Express.js          | APIs REST simples e robustas                        |
-| 🟡 MongoDB & Mongoose  | Banco NoSQL com modelagem avançada                  |
-| 🟡 Arquitetura Modular | Models, Services, Controllers, Routes e Middlewares |
-| 🟡 JWT & bcryptjs      | Autenticação segura e criptografia de senhas        |
-| 🟡 RBAC                | Controle de acesso baseado em papéis                |
-| 🟡 Multi-tenant        | Isolamento de dados entre empresas                  |
-| 🟡 Google Calendar API | Integração via OAuth 2.0                            |
+## Front-end
 
----
-
-# 📚 Competências
-
-| Frontend   | Backend    | Arquitetura   | Ferramentas |
-| ---------- | ---------- | ------------- | ----------- |
-| React      | Node.js    | REST APIs     | Git         |
-| HTML5      | Express.js | MVC           | npm         |
-| CSS3       | MongoDB    | RBAC          | Docker      |
-| JavaScript | Mongoose   | Multi-tenant  | Postman     |
-|            | JWT        | Modularização | CI/CD       |
-|            | bcryptjs   |               |             |
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
 
 ---
 
-# 🔧 O Que Faço
+## Back-end
 
-* ⚛️ Desenvolvimento de interfaces modernas e responsivas com React
-* ⚙️ Construção de APIs REST escaláveis utilizando Node.js, Express e MongoDB
-* 🔐 Implementação de autenticação JWT e controle de acesso baseado em papéis (RBAC)
-* 🔗 Integração com APIs externas, incluindo Google Calendar (OAuth 2.0)
-* 🔄 Arquiteturas multi-tenant para isolamento de dados
-* 🚀 Código otimizado, testes, versionamento e colaboração utilizando Git
-
----
-
-# 📂 Projetos
-
-Quer conhecer alguns dos meus projetos?
-
-### 👉 **GitHub**
-
-**https://github.com/Lucaslonski-code**
+* Node.js
+* Express.js
+* REST APIs
+* JWT
+* OAuth 2.0
+* RBAC
+* Multi-tenancy
+* Arquitetura Modular
 
 ---
 
-# 📈 Estatísticas
+## Banco de Dados
+
+* MongoDB
+* Mongoose
+* Redis
+* OpenSearch
+
+---
+
+## Cloud & DevOps
+
+* Docker
+* Containers
+* Cloud Computing
+* GitHub Actions
+* CI/CD
+* Deploy Automatizado
+* Infraestrutura Distribuída
+
+---
+
+## Arquitetura
+
+* Security First
+* Zero Trust
+* Clean Architecture
+* SOLID
+* Domain Driven Design (DDD)
+* Arquitetura Modular
+* APIs Stateless
+* Escalabilidade Horizontal
+* Alta Disponibilidade
+* Observabilidade
+* Documentação Técnica
+
+---
+
+## Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Markdown
+* npm
+* Docker Desktop
+* Linux
+* PowerShell
+
+---
+
+# Atualmente
+
+Tenho estudado e desenvolvido projetos voltados para:
+
+* Plataformas SaaS
+* Inteligência Artificial
+* Sistemas distribuídos
+* Arquiteturas Cloud-First
+* Microsserviços
+* APIs escaláveis
+* Motores de busca
+* Engenharia de Plataforma
+* Design Systems
+* Documentação de Software
+
+---
+
+# Princípios
+
+Todo projeto que desenvolvo busca seguir alguns princípios:
+
+* Segurança acima de tudo.
+* Arquitetura antes da implementação.
+* Código simples é melhor que código complexo.
+* Documentação faz parte do software.
+* Escalabilidade deve ser planejada desde o início.
+* Tecnologia deve resolver problemas reais.
+
+---
+
+# Projetos
+
+Todos os meus projetos públicos podem ser encontrados em:
+
+**GitHub**
+
+> https://github.com/Lucaslonski-code
+
+---
+
+# Contato
+
+* GitHub — https://github.com/Lucaslonski-code
+* LinkedIn — https://www.linkedin.com/in/lucaslonski
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucaslonski-code&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslonski-code&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lucaslonski-code"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lucaslonski-code&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
----
-
-# 🚀 Sempre Aprendendo
-
-> *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."*
-> **— Albert Einstein**
-
----
-
-<div align="center">
-
-### Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
-
-[![GitHub](https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Lucaslonski-code)
-
-<br><br>
-
-⭐ Obrigado pela visita ao meu perfil!
+**Obrigado pela visita!**
 
 </div>
