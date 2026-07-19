@@ -4,154 +4,148 @@
 
 ### Full Stack Developer
 
-Construindo aplicações modernas com foco em arquitetura, segurança, escalabilidade e experiência do usuário.
+*Building modern software with simplicity, architecture and security.*
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-181717?style=flat\&logo=github)](https://github.com/Lucaslonski-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-181717?style=for-the-badge\&logo=github)](https://github.com/Lucaslonski-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 
 </div>
 
 ---
 
-## Sobre
+## 👋 Sobre
 
-Sou desenvolvedor Full Stack e gosto de construir software completo, desde a arquitetura até a entrega.
+Desenvolvedor Full Stack apaixonado por transformar ideias em produtos completos.
 
-Tenho interesse especial por engenharia de software, arquitetura de sistemas, desenvolvimento cloud, segurança, experiência do desenvolvedor (DX) e documentação técnica.
+Atuo desde a arquitetura até a entrega de aplicações modernas, priorizando qualidade, escalabilidade, segurança e uma excelente experiência para usuários e desenvolvedores.
 
-Acredito que software de qualidade é resultado da combinação entre boas decisões arquiteturais, código limpo, documentação consistente e evolução contínua.
-
----
-
-# Stack
-
-## Front-end
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
+Tenho interesse especial por Engenharia de Software, Arquitetura de Sistemas, Cloud Computing, Inteligência Artificial e desenvolvimento de plataformas robustas.
 
 ---
 
-## Back-end
+# 💻 Tecnologias
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT
-* OAuth 2.0
-* RBAC
-* Multi-tenancy
-* Arquitetura Modular
-
----
-
-## Banco de Dados
-
-* MongoDB
-* Mongoose
-* Redis
-* OpenSearch
+| Área                   | Tecnologias                                                                                                 |
+| :--------------------- | :---------------------------------------------------------------------------------------------------------- |
+| 🎨 **Frontend**        | HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS                                     |
+| ⚙️ **Backend**         | Node.js • Express.js • REST APIs • JWT • OAuth 2.0 • RBAC • Multi-tenancy                                   |
+| 🗄️ **Banco de Dados** | MongoDB • Mongoose • Redis • OpenSearch                                                                     |
+| ☁️ **Cloud**           | Docker • Containers • GitHub Actions • CI/CD • Cloud Computing                                              |
+| 🏗️ **Arquitetura**    | Clean Architecture • SOLID • DDD • Security First • Zero Trust • APIs Stateless • Escalabilidade Horizontal |
+| 🛠️ **Ferramentas**    | Git • GitHub • VS Code • Postman • Linux • PowerShell • Markdown • npm                                      |
 
 ---
 
-## Cloud & DevOps
+# 🚀 Áreas de Atuação
 
-* Docker
-* Containers
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Desenvolvimento
+
+* Aplicações Full Stack
+* Interfaces Responsivas
+* APIs REST
+* Sistemas SaaS
+* Integrações entre Serviços
+* Sistemas Multi-tenant
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engenharia
+
+* Arquitetura de Software
+* Segurança de Aplicações
 * Cloud Computing
-* GitHub Actions
-* CI/CD
-* Deploy Automatizado
-* Infraestrutura Distribuída
-
----
-
-## Arquitetura
-
-* Security First
-* Zero Trust
-* Clean Architecture
-* SOLID
-* Domain Driven Design (DDD)
-* Arquitetura Modular
-* APIs Stateless
-* Escalabilidade Horizontal
-* Alta Disponibilidade
-* Observabilidade
+* DevOps
 * Documentação Técnica
+* Design de Sistemas
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Ferramentas
+# 📖 Atualmente
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Markdown
-* npm
-* Docker Desktop
-* Linux
-* PowerShell
+<table>
 
----
+<tr>
+<td width="50%">
 
-# Atualmente
+### Desenvolvendo
 
-Tenho estudado e desenvolvido projetos voltados para:
-
-* Plataformas SaaS
+* Plataformas Web
+* APIs Escaláveis
+* Sistemas Cloud
 * Inteligência Artificial
-* Sistemas distribuídos
-* Arquiteturas Cloud-First
-* Microsserviços
-* APIs escaláveis
-* Motores de busca
+* Ferramentas para Desenvolvedores
+
+</td>
+
+<td width="50%">
+
+### Estudando
+
+* Arquiteturas Distribuídas
+* Kubernetes
+* Observabilidade
 * Engenharia de Plataforma
-* Design Systems
-* Documentação de Software
+* Performance
+* Cloud Native
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# Princípios
+# 🎯 Princípios
 
-Todo projeto que desenvolvo busca seguir alguns princípios:
+> Desenvolver software vai além de escrever código.
+
+Todo projeto que construo busca seguir alguns princípios permanentes:
 
 * Segurança acima de tudo.
 * Arquitetura antes da implementação.
-* Código simples é melhor que código complexo.
-* Documentação faz parte do software.
-* Escalabilidade deve ser planejada desde o início.
-* Tecnologia deve resolver problemas reais.
+* Simplicidade como estratégia.
+* Código limpo e legível.
+* Documentação como parte do produto.
+* Escalabilidade desde o primeiro dia.
+* Tecnologia para resolver problemas reais.
 
 ---
 
-# Projetos
+# 📂 Projetos
 
-Todos os meus projetos públicos podem ser encontrados em:
+Todo o meu trabalho está disponível no GitHub.
 
-**GitHub**
-
-> https://github.com/Lucaslonski-code
+**→** **https://github.com/Lucaslonski-code**
 
 ---
 
-# Contato
+# 🤝 Vamos Conversar
 
-* GitHub — https://github.com/Lucaslonski-code
-* LinkedIn — https://www.linkedin.com/in/lucaslonski
+Caso queira trocar ideias sobre desenvolvimento, arquitetura ou tecnologia, fique à vontade para entrar em contato.
+
+* **GitHub:** https://github.com/Lucaslonski-code
+* **LinkedIn:** https://www.linkedin.com/in/lucaslonski
 
 ---
 
 <div align="center">
 
-**Obrigado pela visita!**
+### Obrigado pela visita!
+
+*"A melhor arquitetura é aquela que continua simples mesmo quando o projeto cresce."*
 
 </div>
