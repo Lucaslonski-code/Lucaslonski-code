@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Lucaslonski-code/lucaslonskiGthubImage.png" width="800" alt="Lucas Slonski - Full Stack Developer">
+</div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="42"> Lucas Slonski
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="42"> Lucas Slonski
+</h1>
 
 ## Desenvolvedor Full Stack
 
@@ -8,8 +12,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-2E7D32?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Lucaslonski-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-558B2F?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaslonski-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-558B2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 ![Profile Views](https://img.shields.io/badge/Perfil-Ativo-FBC02D?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Sim-8BC34A?style=for-the-badge)
 
@@ -658,9 +662,9 @@ Se quiser conversar sobre desenvolvimento, arquitetura, inteligência artificial
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-2E7D32?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Lucaslonski-code)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucaslonski--code-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaslonski-code)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-558B2F?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Slonski-558B2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslonski)
 
 </div>
 
@@ -699,4 +703,3 @@ Se algum projeto lhe chamou a atenção, fique à vontade para explorá-lo, abri
 ⭐ Todo feedback é sempre bem-vindo.
 
 </div>
-
