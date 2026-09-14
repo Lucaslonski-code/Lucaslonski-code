@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lucaslonski-code/lucaslonskiGthubImage.png" width="800" alt="Lucas Slonski - Full Stack Developer">
+  <img ./lucaslonskiGthubImage.png" width="800" alt="Lucas Slonski - Full Stack Developer">
 </div>
 
 <h1 align="center">
